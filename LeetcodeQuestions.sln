@@ -81,6 +81,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NthTribonacciNumber", "NthT
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniqueNumberOfOccurences", "UniqueNumberOfOccurences\UniqueNumberOfOccurences.csproj", "{CA2EA1FF-1EF6-45B8-9897-B313AEBE3372}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddTwoNumbers", "AddTwoNumbers\AddTwoNumbers.csproj", "{DCC544E9-E898-4A59-A905-369C6970A905}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -227,6 +229,10 @@ Global
 		{CA2EA1FF-1EF6-45B8-9897-B313AEBE3372}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CA2EA1FF-1EF6-45B8-9897-B313AEBE3372}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CA2EA1FF-1EF6-45B8-9897-B313AEBE3372}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCC544E9-E898-4A59-A905-369C6970A905}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCC544E9-E898-4A59-A905-369C6970A905}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCC544E9-E898-4A59-A905-369C6970A905}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCC544E9-E898-4A59-A905-369C6970A905}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -266,6 +272,7 @@ Global
 		{4D6203DA-E98A-4A43-AC9C-59A1E5CE9E95} = {A71D574A-7461-4BF5-9C13-4D53DD79EBE5}
 		{5BF3F92E-3E7E-4028-9AA3-1459C7D805CB} = {A71D574A-7461-4BF5-9C13-4D53DD79EBE5}
 		{CA2EA1FF-1EF6-45B8-9897-B313AEBE3372} = {A71D574A-7461-4BF5-9C13-4D53DD79EBE5}
+		{DCC544E9-E898-4A59-A905-369C6970A905} = {586BA3D8-2133-4DDC-B483-42B47AAC885B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D994A711-4F78-4969-ABEB-AE336D08D700}
