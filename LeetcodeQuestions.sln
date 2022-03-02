@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximumSubarray", "MaximumS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlusOne", "PlusOne\PlusOne.csproj", "{80C2E603-145B-436A-8F27-17DEE8403F1B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClimbingStairs", "ClimbingStairs\ClimbingStairs.csproj", "{D0996241-FD59-4E25-A13A-889461B9763B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -77,6 +79,10 @@ Global
 		{80C2E603-145B-436A-8F27-17DEE8403F1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{80C2E603-145B-436A-8F27-17DEE8403F1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{80C2E603-145B-436A-8F27-17DEE8403F1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0996241-FD59-4E25-A13A-889461B9763B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0996241-FD59-4E25-A13A-889461B9763B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0996241-FD59-4E25-A13A-889461B9763B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0996241-FD59-4E25-A13A-889461B9763B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -91,6 +97,7 @@ Global
 		{8BA85330-B2B5-47EC-B220-C88C31B3CDA2} = {A71D574A-7461-4BF5-9C13-4D53DD79EBE5}
 		{31B02D2A-6CE7-4801-B77C-AFF236EB2F6B} = {A71D574A-7461-4BF5-9C13-4D53DD79EBE5}
 		{80C2E603-145B-436A-8F27-17DEE8403F1B} = {A71D574A-7461-4BF5-9C13-4D53DD79EBE5}
+		{D0996241-FD59-4E25-A13A-889461B9763B} = {A71D574A-7461-4BF5-9C13-4D53DD79EBE5}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D994A711-4F78-4969-ABEB-AE336D08D700}
