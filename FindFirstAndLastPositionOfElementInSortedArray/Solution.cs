@@ -14,10 +14,10 @@ namespace FindFirstAndLastPositionOfElementInSortedArray
     /// If target is not found in the array, return [-1, -1]. <br></br>
     /// You must write an algorithm with O(log n) runtime complexity. <br></br>
     /// Constraints<br></br>
-    /// 0 &lt;= nums.length &lt;= 10^5
-    /// -10^9 &lt;= nums[i] &lt;= 10^9
-    /// nums is a non-decreasing array.
-    /// -10^9 &lt;= target &lt;= 10^9
+    /// 0 &lt;= nums.length &lt;= 10^5 <br></br>
+    /// -10^9 &lt;= nums[i] &lt;= 10^9<br></br>
+    /// nums is a non-decreasing array.<br></br>
+    /// -10^9 &lt;= target &lt;= 10^9<br></br>
     /// </summary>
     class Solution
     {
