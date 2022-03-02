@@ -85,6 +85,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddTwoNumbers", "AddTwoNumb
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestSubstringWithoutRepeatingCharacters", "LongestSubstringWithoutRepeatingCharacters\LongestSubstringWithoutRepeatingCharacters.csproj", "{01601DBA-A3DE-492F-8C9A-94A8C04DF46D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseInteger", "ReverseInteger\ReverseInteger.csproj", "{EA461E45-8DB6-4881-B6B8-AEF8A028C953}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -239,6 +241,10 @@ Global
 		{01601DBA-A3DE-492F-8C9A-94A8C04DF46D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{01601DBA-A3DE-492F-8C9A-94A8C04DF46D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{01601DBA-A3DE-492F-8C9A-94A8C04DF46D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA461E45-8DB6-4881-B6B8-AEF8A028C953}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA461E45-8DB6-4881-B6B8-AEF8A028C953}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA461E45-8DB6-4881-B6B8-AEF8A028C953}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA461E45-8DB6-4881-B6B8-AEF8A028C953}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -280,6 +286,7 @@ Global
 		{CA2EA1FF-1EF6-45B8-9897-B313AEBE3372} = {A71D574A-7461-4BF5-9C13-4D53DD79EBE5}
 		{DCC544E9-E898-4A59-A905-369C6970A905} = {586BA3D8-2133-4DDC-B483-42B47AAC885B}
 		{01601DBA-A3DE-492F-8C9A-94A8C04DF46D} = {586BA3D8-2133-4DDC-B483-42B47AAC885B}
+		{EA461E45-8DB6-4881-B6B8-AEF8A028C953} = {586BA3D8-2133-4DDC-B483-42B47AAC885B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D994A711-4F78-4969-ABEB-AE336D08D700}
