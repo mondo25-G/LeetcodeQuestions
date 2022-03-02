@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{C09AF8E4-AD58-45EF-B9F1-9270F4A0E654}</ProjectGuid>
+    <ProjectGuid>{7CCFE453-D613-46CB-B8ED-DF260670BE8D}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>TwoSum</RootNamespace>
-    <AssemblyName>TwoSum</AssemblyName>
+    <RootNamespace>PalindromeNumber</RootNamespace>
+    <AssemblyName>PalindromeNumber</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

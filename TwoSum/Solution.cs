@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using LCPrintClassLibrary;
 
 namespace TwoSum
 {
@@ -36,10 +37,10 @@ namespace TwoSum
 
             foreach (var testCase in testCases)
             {
-                //Debug.PrintIEnumerable(testCase.Item1, debug);
-                //Debug.PrintForDebug($"Target Sum {testCase.Item2}\nResult:", debug);
+                Debug.PrintIEnumerable(testCase.Item1, debug);
+                Debug.PrintForDebug($"Target Sum {testCase.Item2}\nResult:", debug);
                 var result = TwoSum(testCase.Item1, testCase.Item2);
-                //Debug.PrintIEnumerable(result, debug);
+                Debug.PrintIEnumerable(result, debug);
                 Console.WriteLine("---");
             }
 
